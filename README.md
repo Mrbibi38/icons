@@ -2,6 +2,7 @@
 ---
 
 Just a set of icons.
+<br>
 All icons come from free sources found on the Internet.
 
 Sources of the icons:
